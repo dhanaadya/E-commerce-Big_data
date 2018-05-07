@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/atalina-ha.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/cj-4.2.2.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/l-api.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/asper.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/asper-el.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/tomcat7-websocket.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/omcat-api.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/omcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/omcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/omcat-util.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.7/lib/ebsocket-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/eCommerce-0.0.1-SNAPSHOT/ImportedClasses"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
